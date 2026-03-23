@@ -1,0 +1,8 @@
+{
+  "name": "ai-compliance",
+  "version": "1.0.0",
+  "description": "AI compliance evidence collection — regulatory knowledge base, evidence templates, interactive assessments, and automated extractors for EU AI Act, GDPR, and global AI regulations",
+  "author": "justice8096",
+  "skills": ["skills/ai-compliance"],
+  "commands": ["commands/extract-evidence.md", "commands/check-compliance.md", "commands/fill-templates.md"]
+}
